@@ -25,8 +25,10 @@ Mock-Up
 
 ### Repository URL:
 
+View GitHub at: [GitHub](https://github.com/sirwettering/Note-Taker)
 
 ### Live URL:
 
+Take Notes at: [Note Taker](https://young-tor-45266.herokuapp.com/)
 
-### Screen Shots:
+### Screen Shot:
